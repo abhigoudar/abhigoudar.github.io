@@ -2,7 +2,7 @@
 layout: post
 title:  "Deterministic Sampling for Efficient Uncertainity Transformation"
 date:   2021-04-11 19:27:15 -0400
-categories: uncertainity_quantification
+categories: unscented_transform
 permalink: unscented_transform
 ---
 
