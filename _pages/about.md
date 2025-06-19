@@ -10,7 +10,7 @@ redirect_from:
 I am a PhD candidate at the University of Toronto Institute for Aerospace Studies under the supervision of Prof. Angela P. Schoellig. My primary area of research is state estimation. The overarching goal of my research is to enable robots to operate reliably in challenging environments by combining complementary information from radio, inertial, and ego-motion sensors.
 
 
-I have a penchant for designing and building robotic systems from the ground up, working across the full autonomy stack—from state estimation to planning and control. Examples of the systems I have built or contributed to can be found in [TODO].
+I have a penchant for designing and building robotic systems from the ground up, working across the full autonomy stack—from state estimation to planning and control.
 
 On this site, I hope to share what I've learned from the various projects I’ve worked on—and continue to work on—in the hope that it might be helpful in some small way.
 
