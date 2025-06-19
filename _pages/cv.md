@@ -46,7 +46,7 @@ Teaching experience
   * Carnegie Mellong University, USA.
   * Held weekly office hours and graded assignments and exams.
 
-* Summer 2015: Teaching Assistant for Engineering Mathematics.
+* Summer 2013 to Summer 2014: Teaching Assistant for Engineering Mathematics.
   * Nagraj Tutorials, India.
   * Lecturer for 20 hours of content for Engineering Calculus I, II and III.
 
