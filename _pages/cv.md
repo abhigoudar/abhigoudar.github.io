@@ -9,56 +9,52 @@ redirect_from:
 
 {% include base_path %}
 
+A PDF version of my CV can be found here [link](../files/abhishek_goudar_cv.pdf)
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Robotics, University of Toronto, 2025 (expected)
+  * Supervisor: Dr. Angela P. Schoellig
+* M.S. in Robotic Systems Development, Carnegie Mellon University, 2015
+* B.E. in Electronics and Communication, Visvesvaraya Technological University, 2013
+
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Humatics, 2018 - 2019: Robotics Software Engineer
+  * Location: Waltham, Masaachusetts, USA.
+  * Developed sensor fusion algorithms for Ultra-wideband-aided localization.
+  * Assisted with deployment of prototype localization software stack at multiple venues.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 5D Robotics, 2016 - 2018: Robotics Software Engineer
+  * Location: Carlsbad, California, USA.
+  * Developed communication libraries for Time Domain radios, Segway platforms, and other robotic platforms.
+  * Systems Integrator for fully scale autonomy on unmanned ground vehicles (UGVs).
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* Near Earth Autonomy, Summer 2016: Software Engineer Intern
+  * Location: Pittsburgh, Pennsylvania, USA.
+  * User interface (UI) and hardware driver development for oscillation scanning mode on Riegl Lidars.
+
+Teaching experience
+======
+* Winter 2024 and Winter 2025: Teaching Assistant for ROB498 Robotics Capstone
+  * University of Toronto, Canada.
+  * Developed hardware (hardware assembly and software configuration) kits for building quadrotors.
+  * Held weekly office hours and graded assignments.
+
+* Winter 2015: Teaching Assistant for 16-642 Manipulation, Mobility and Control
+  * Carnegie Mellong University, USA.
+  * Held weekly office hours and graded assignments and exams.
+
+* Summer 2015: Teaching Assistant for Engineering Mathematics.
+  * Nagraj Tutorials, India.
+  * Lecturer for 20 hours of content for Engineering Calculus I, II and III.
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages: C, C++, Python, Julia.
+* Hardware: STM32 ARM Cortex series, Arduino
+* Libraries: git, Docker.
+  * Robotics sofware libraries: GTSAM, Ceres, ROS, ROS2.
+  * Autopilots: PX4, Ardupilot, Betaflight.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
