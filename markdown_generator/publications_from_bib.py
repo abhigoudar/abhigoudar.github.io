@@ -112,7 +112,10 @@ for bib_id in bibdata.entries:
 
         #citation authors - todo - add highlighting for primary author?
         for author in bibdata.entries[bib_id].persons["author"]:
-            citation = citation+" "+author.first_names[0]+" "+author.last_names[0]+", "
+            if 'Abhishek' in author.first_names[0] and 'Goudar' in author.last_names[0]:
+                citation = citation+" <b>"+author.first_names[0]+" "+author.last_names[0]+"</b>, "
+            else:
+                citation = citation+" "+author.first_names[0]+" "+author.last_names[0]+", "
 
         #citation title
         citation = citation + "\"" + html_escape(b["title"].replace("{", "").replace("}","").replace("\\","")) + ".\""
@@ -159,10 +162,7 @@ for bib_id in bibdata.entries:
                 url = True
 
         md += "\ncitation: '" + html_escape(citation) + "'"
-
-        md += "\n---"
-
-        
+        md += "\n---"        
         ## Markdown description for individual page
         if note:
             md += "\n" + html_escape(b["note"]) + "\n"
