@@ -3,6 +3,7 @@ title: "Gaussian Variational Inference with Covariance Constraints Applied to Ra
 collection: publications
 category: conferences
 permalink: /publication/2022-10-01-Gaussian-Variational-Inference-with-Covariance-Constraints-Applied-to-Range-only-Localization
+doi: 10.1109/IROS47612.2022.9981520
 date: 2022-10-01
 venue: 'in Proc. of the RSJ International Conference on Intelligent Robots and Systems (IROS)'
 paperurl: 'https://www.dynsyslab.org/wp-content/papercite-data/pdf/goudar-iros22.pdf'

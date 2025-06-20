@@ -144,7 +144,10 @@ for bib_id in bibdata.entries:
         md += """collection: """ +  pub_attr[pubsource]["collection"]["name"]
         md += """\ncategory: """ +  pub_attr[pubsource]["category"]
         md += """\npermalink: """ + pub_attr[pubsource]["collection"]["permalink"]  + html_filename
-        
+
+        if "doi" in b:
+            md += """\ndoi: """ +  b["doi"]
+
         note = False
         if "note" in b.keys():
             if len(str(b["note"])) > 5:

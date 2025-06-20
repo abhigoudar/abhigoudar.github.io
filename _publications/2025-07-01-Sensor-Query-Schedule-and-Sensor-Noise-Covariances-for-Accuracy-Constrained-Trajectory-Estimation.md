@@ -3,6 +3,7 @@ title: "Sensor Query Schedule and Sensor Noise Covariances for Accuracy-Constrai
 collection: publications
 category: manuscripts
 permalink: /publication/2025-07-01-Sensor-Query-Schedule-and-Sensor-Noise-Covariances-for-Accuracy-Constrained-Trajectory-Estimation
+doi: 10.1109/LRA.2025.3570948
 date: 2025-07-01
 venue: 'in IEEE Robotics and Automation Letters'
 paperurl: 'https://abhigoudar.github.io/files/papers/sens_param_ral_2025.pdf'

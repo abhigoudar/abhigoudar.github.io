@@ -3,6 +3,7 @@ title: "UTIL: An Ultra-Wideband Time-Difference-of-Arrival Indoor Localization D
 collection: publications
 category: manuscripts
 permalink: /publication/2024-09-01-UTIL-An-Ultra-Wideband-Time-Difference-of-Arrival-Indoor-Localization-Dataset
+doi: 10.1177/02783649241230640
 date: 2024-09-01
 venue: 'in The International Journal of Robotics Research'
 paperurl: 'https://www.dynsyslab.org/wp-content/papercite-data/pdf/zhao-ijrr24.pdf'

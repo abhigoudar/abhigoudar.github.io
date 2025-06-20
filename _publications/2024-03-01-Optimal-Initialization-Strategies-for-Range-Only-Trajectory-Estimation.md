@@ -3,6 +3,7 @@ title: "Optimal Initialization Strategies for Range-Only Trajectory Estimation"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-03-01-Optimal-Initialization-Strategies-for-Range-Only-Trajectory-Estimation
+doi: 10.1109/LRA.2024.3354623
 date: 2024-03-01
 venue: 'in IEEE Robotics and Automation Letters'
 paperurl: 'https://www.dynsyslab.org/wp-content/papercite-data/pdf/goudar-ral24b.pdf'
